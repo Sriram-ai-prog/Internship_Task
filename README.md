@@ -5,7 +5,7 @@ To keep my work organized and easily accessible, I have consolidated all assigne
 
 ## 📂 Repository Structure
 
-### [Task 1: Data Cleaning and Preprocessing](./Task_1_Netflix_Cleaning)
+### [Task 1: Data Cleaning and Preprocessing](./Task_1)
 **Objective:** Clean and prepare a raw dataset (Netflix Movies & TV Shows) by handling missing values, duplicates, and formatting inconsistencies.
 - **Dataset:** Netflix Movies and TV Shows (Kaggle)
 - **Tools:** Python (Pandas)
