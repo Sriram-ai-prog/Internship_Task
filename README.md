@@ -10,22 +10,26 @@ To keep my work organized and easily accessible, I have consolidated all assigne
 - **Dataset:** Netflix Movies and TV Shows (Kaggle)
 - **Tools:** Python (Pandas)
 - **Key Files:** - `Task_1_Cleaning_Code.ipynb` (Python Code)
-  - `netflix_titles.csv` (Raw Data)
   - `netflix_cleaned.csv` (Cleaned Data)
   - `README.md` (Detailed Process Documentation)
 
 ---
 
-### 🔜 Task 2: [Coming Soon]
-*(Placeholder for the next assignment)*
+### [Task 2: Data Visualization (Power BI)](./Task_2)
+**Objective:** Create visualizations that convey a compelling story using the Superstore dataset.
+- **Dataset:** Superstore Sales Data (Kaggle)
+- **Tools:** Power BI
+- **Key Files:** - `dashboard_main.pdf` (Dashboard Pdf)
+  - `README.md` (Dashboard Story & Insights)
 
 ---
 
 ### 🛠️ Technologies Used
 * **Languages:** Python
 * **Libraries:** Pandas, NumPy
-* **Tools:** Jupyter Notebooks / Google Colab
+* **BI Tools:** Power BI
+* **Development:** Jupyter Notebooks / Google Colab
 
 ---
 
-**Note to Evaluator:** Per the submission guidelines, I have ensured all deliverables (Code, Datasets, Summary) are included within their respective task folders above.
+**Note to Evaluator:** Per the submission guidelines, I have ensured all deliverables (Code, Datasets, Screenshots, Summary) are included within their respective task folders above.
