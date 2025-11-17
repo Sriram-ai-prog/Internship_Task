@@ -24,11 +24,22 @@ To keep my work organized and easily accessible, I have consolidated all assigne
 
 ---
 
+### [Task 3: SQL for Data Analysis](./Task_3)
+**Objective:** Restore a database and use SQL queries to analyze hospital operations.
+- **Dataset:** Hospital Operations Database (PostgreSQL Dump)
+- **Tools:** PostgreSQL
+- **Key Files:** - `task_3_hospital_queries.sql` (9 SQL Queries)
+  - `/screenshots` (Query Outputs)
+  - `README.md` (Analysis Summary)
+
+---
+
 ### 🛠️ Technologies Used
-* **Languages:** Python
-* **Libraries:** Pandas, NumPy
+* **Languages:** Python, SQL
+* **Libraries:** Pandas
 * **BI Tools:** Power BI
-* **Development:** Jupyter Notebooks / Google Colab
+* **Databases:** PostgreSQL
+* **Development:** Jupyter Notebooks
 
 ---
 
