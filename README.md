@@ -34,12 +34,23 @@ To keep my work organized and easily accessible, I have consolidated all assigne
 
 ---
 
+### [Task 4: Dashboard Design](./Task_4)
+**Objective:** Design an interactive sales dashboard for business stakeholders using Power BI.
+- **Dataset:** Adidas Sales Data
+- **Tools:** Power BI, Gamma (for Presentation)
+- **Key Files:** - `Adidas_Sales_Dashboard.pbix`
+  - `Dashboard_Screenshot.png`
+  - `Adidas_Sales_Summary.pptx`
+
+---
+
 ### 🛠️ Technologies Used
 * **Languages:** Python, SQL
 * **Libraries:** Pandas
 * **BI Tools:** Power BI
 * **Databases:** PostgreSQL
 * **Development:** Jupyter Notebooks
+* **Utility:** Microsoft office 365
 
 ---
 
