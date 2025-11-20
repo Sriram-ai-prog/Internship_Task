@@ -44,6 +44,16 @@ To keep my work organized and easily accessible, I have consolidated all assigne
 
 ---
 
+### [Task 5: Exploratory Data Analysis (EDA)](./Task_5)
+**Objective:** Perform statistical analysis and visualization on the Titanic dataset to identify survival trends and correlations.
+- **Dataset:** Titanic Dataset (`train.csv`)
+- **Tools:** Python (Seaborn, Matplotlib, Pandas)
+- **Key Files:** - `eda_analysis.ipynb` (Python Code)
+  - `EDA_Report.pdf` (Summary of Findings)
+  - `train.csv` (Dataset)
+
+---
+
 ### 🛠️ Technologies Used
 * **Languages:** Python, SQL
 * **Libraries:** Pandas
