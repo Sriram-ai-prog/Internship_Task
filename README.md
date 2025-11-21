@@ -54,13 +54,23 @@ To keep my work organized and easily accessible, I have consolidated all assigne
 
 ---
 
+### [Task 6: Sales Trend Analysis](./Task_6)
+**Objective:** Analyze monthly revenue and order volume trends using advanced SQL aggregations, data cleaning, and window functions.
+- **Dataset:** Online Retail II (Kaggle)
+- **Tools:** PostgreSQL (pgAdmin)
+- **Key Files:** - `sql/` (Modular Scripts: ETL, Metrics, & Growth Analysis)
+  - `table.png` (Query Output Screenshot)
+  - `README.md` (Methodology & Insights)
+
+---
+
 ### 🛠️ Technologies Used
 * **Languages:** Python, SQL
-* **Libraries:** Pandas
+* **Libraries:** Pandas, Matplotlib, Seaborn
 * **BI Tools:** Power BI
 * **Databases:** PostgreSQL
-* **Development:** Jupyter Notebooks
-* **Utility:** Microsoft office 365
+* **Development:** Jupyter Notebooks, pgAdmin 4
+* **Utility:** Microsoft Office 365, Gamma
 
 ---
 
