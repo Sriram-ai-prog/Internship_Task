@@ -64,6 +64,16 @@ To keep my work organized and easily accessible, I have consolidated all assigne
 
 ---
 
+### [Task 7: SQL Integration with Python](./Task_7)
+**Objective:** Automate the extraction and visualization of sales data by integrating SQL queries directly within a Python script.
+- **Dataset:** Self-generated SQLite Database (`sales_data.db`)
+- **Tools:** Python, SQLite3, Pandas, Matplotlib
+- **Key Files:** - `task_7_sales_script.ipynb` (End-to-end Python/SQL Pipeline)
+  - `sales_chart.png` (Visualization Output)
+  - `README.md` (Project Documentation)
+ 
+---
+
 ### 🛠️ Technologies Used
 * **Languages:** Python, SQL
 * **Libraries:** Pandas, Matplotlib, Seaborn
