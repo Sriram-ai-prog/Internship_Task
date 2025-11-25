@@ -74,6 +74,16 @@ To keep my work organized and easily accessible, I have consolidated all assigne
  
 ---
 
+### [Task 8: Interactive Sales Dashboard Design](./Task_8)
+**Objective:** Design a user-friendly, interactive dashboard to visualize sales performance by product, region, and time.
+- **Dataset:** Automotive & Vintage Car Sales (Sample Sales Data)
+- **Tools:** Power BI
+- **Key Files:** - `dashboard_screenshot.png` (Final Dashboard View)
+  - `insights.txt` (Business Findings)
+  - `README.md` (Design Process & Insights)
+ 
+---
+
 ### 🛠️ Technologies Used
 * **Languages:** Python, SQL
 * **Libraries:** Pandas, Matplotlib, Seaborn
