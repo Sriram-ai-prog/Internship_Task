@@ -1,0 +1,9 @@
+# 🏎️ Global Automotive Sales Dashboard - Insights
+
+1. **Product Dominance:** "Classic Cars" are the primary revenue driver, contributing significantly more to total sales than "trains" or "planes," indicating a core customer base of automotive collectors.
+
+2. **Regional Strongholds:** The EMEA (Europe, Middle East, Africa) territory shows strong performance, often rivaling North America (NA), suggesting a high demand for vintage collectibles in European markets.
+
+3. **Seasonal Spikes:** Sales data indicates a sharp increase in revenue during Q4 (October–December), aligning with holiday gifting seasons and end-of-year budget spending.
+
+4. **Deal Size Correlation:** "Medium" deal sizes account for the highest volume of transactions, whereas "Large" deals provide high-margin revenue spikes but occur less frequently.
